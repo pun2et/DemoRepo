@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitProjectWithTwoBuildConfig", "GitProjectWithTwoBuildConfig\GitProjectWithTwoBuildConfig.csproj", "{05041FAE-2A1C-40D4-B266-86C445996805}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		GE1|Any CPU = GE1|Any CPU
+		GE2|Any CPU = GE2|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05041FAE-2A1C-40D4-B266-86C445996805}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05041FAE-2A1C-40D4-B266-86C445996805}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05041FAE-2A1C-40D4-B266-86C445996805}.GE1|Any CPU.ActiveCfg = GE1|Any CPU
+		{05041FAE-2A1C-40D4-B266-86C445996805}.GE1|Any CPU.Build.0 = GE1|Any CPU
+		{05041FAE-2A1C-40D4-B266-86C445996805}.GE2|Any CPU.ActiveCfg = GE2|Any CPU
+		{05041FAE-2A1C-40D4-B266-86C445996805}.GE2|Any CPU.Build.0 = GE2|Any CPU
+		{05041FAE-2A1C-40D4-B266-86C445996805}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05041FAE-2A1C-40D4-B266-86C445996805}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {299A93AC-1689-4446-88F4-141F0CA82A53}
+	EndGlobalSection
+EndGlobal
